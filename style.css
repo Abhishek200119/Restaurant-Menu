@@ -1,9 +1,15 @@
+body{
+    margin: 0;
+}
+
 h1 {
-    background-color: rgb(191, 190, 192);
+    background-color: #14151b;
     justify-content: center;
     display: flex;
     padding: 5px;
-    margin: 0px
+    margin: 0px;
+    color: #dde;
+    font-family: sans-serif;
 }
 
 header {
